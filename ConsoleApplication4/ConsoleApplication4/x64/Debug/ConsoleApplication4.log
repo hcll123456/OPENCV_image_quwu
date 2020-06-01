@@ -1,0 +1,32 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,68): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,33): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(35,141): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(35,100): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(35,59): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(35,18): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  ConsoleApplication4.vcxproj -> C:\Users\Love Qiong\Source\Repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
